@@ -5,7 +5,7 @@
  * @f: first index
  * @s: second index
  */
-void swap_ints(int *f, int *s)
+void swap_i(int *f, int *s)
 {
 	int tmp;
 
